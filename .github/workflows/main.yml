@@ -18,3 +18,4 @@ jobs:
       - name: List Content
         run: |
           ls
+          cat README.md
